@@ -1,0 +1,19 @@
+{
+    "git.ignoreLimitWarning": true,
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "c:\\Program Files\\Java\\javafx\\lib\\javafx.base.jar",
+        "c:\\Program Files\\Java\\javafx\\lib\\javafx.controls.jar",
+        "c:\\Program Files\\Java\\javafx\\lib\\javafx.fxml.jar",
+        "c:\\Program Files\\Java\\javafx\\lib\\javafx.graphics.jar",
+        "c:\\Program Files\\Java\\javafx\\lib\\javafx.media.jar",
+        "c:\\Program Files\\Java\\javafx\\lib\\javafx.swing.jar",
+        "c:\\Program Files\\Java\\javafx\\lib\\javafx.web.jar",
+        "c:\\Program Files\\Java\\javafx\\lib\\javafx-swt.jar",
+        "c:\\Program Files\\Java\\javafx\\lib\\jrt-fs.jar",
+        "c:\\Program Files (x86)\\MySQL\\Connector J 8.0\\mysql-connector-java-8.0.17.jar"
+    ],
+    "java.project.sourcePaths": [
+        ""
+    ]
+}

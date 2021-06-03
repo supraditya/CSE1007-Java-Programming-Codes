@@ -1,0 +1,88 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch gcdprog1",
+            "request": "launch",
+            "mainClass": "gcdprog1",
+            "projectName": "java programs_bbf6d7f7"
+        },
+        {
+            "type": "java",
+            "name": "Launch loginPage",
+            "request": "launch",
+            "vmArgs": "--module-path C:/PROGRA~1/Java/javafx/lib --add-modules=javafx.controls,javafx.fxml",
+            "mainClass": "loginPage",
+            "projectName": "java programs_bbf6d7f7"
+        },
+        {
+            "type": "java",
+            "name": "Launch phonebg",
+            "request": "launch",
+            "vmArgs": "--module-path C:/PROGRA~1/Java/javafx/lib --add-modules=javafx.controls,javafx.fxml",
+            "mainClass": "phonebg",
+            "projectName": "java programs_bbf6d7f7"
+        },
+        {
+            "type": "java",
+            "name": "Launch calc",
+            "request": "launch",
+            "vmArgs": "--module-path C:/PROGRA~1/Java/javafx/lib --add-modules=javafx.controls,javafx.fxml",
+            "mainClass": "calc",
+            "projectName": "java programs_bbf6d7f7"
+        },
+        {
+            "type": "java",
+            "name": "Launch treeMap",
+            "request": "launch",
+            "mainClass": "treeMap",
+            "projectName": "java programs_bbf6d7f7"
+        },
+        {
+            "type": "java",
+            "name": "Launch gcdprog",
+            "request": "launch",
+            "mainClass": "gcdprog",
+            "projectName": "java programs_bbf6d7f7"
+        },
+        {
+            "type": "java",
+            "name": "Launch deserializer",
+            "request": "launch",
+            "mainClass": "serialize.deserializer",
+            "projectName": "java programs_bbf6d7f7"
+        },
+        {
+            "type": "java",
+            "name": "Launch serializer",
+            "request": "launch",
+            "mainClass": "serialize.serializer",
+            "projectName": "java programs_bbf6d7f7"
+        },
+        {
+            "type": "java",
+            "name": "Launch arrayDiagSum",
+            "request": "launch",
+            "mainClass": "arrayDiagSum",
+            "projectName": "java programs_bbf6d7f7"
+        },
+        {
+            "type": "java",
+            "name": "Launch javaefex",
+            "request": "launch",
+            "vmArgs": "--module-path C:/PROGRA~1/Java/javafx/lib --add-modules=javafx.controls,javafx.fxml",
+            "mainClass": "javaefex",
+            "projectName": "java programs_bbf6d7f7"
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        }
+    ]
+}
